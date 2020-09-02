@@ -1,0 +1,16 @@
+[package]
+name = "wikipedia-dump-converter"
+version = "0.1.0"
+authors = ["Picani <picani@laposte.net>"]
+edition = "2018"
+license = "WTFPL"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+structopt = "0.3"
+flate2 = "1.0"
+indicatif = "0.14"
+regex = "1"
+lazy_static = "1.4"
+fnv = "1.0"
