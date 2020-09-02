@@ -90,7 +90,7 @@ of the page pointed to by the link.
 `converted_pages.rdf.gz` are converted.
 
 
-Licence
+License
 -------
 
 Copyright © 2020 Sylvain PULICANI <picani@laposte.net>
