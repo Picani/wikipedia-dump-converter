@@ -86,7 +86,7 @@ In [RDF triple][6] terminology, the subject is the page unique ID from which
 the link starts, the predicate is `linksto`, and the object is the unique ID
 of the page pointed to by the link.
 
-**Note: ** Only the links for which both pages are present in
+**Note:** Only the links for which both pages are present in
 `converted_pages.rdf.gz` are converted.
 
 
